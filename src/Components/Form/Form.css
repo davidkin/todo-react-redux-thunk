@@ -1,0 +1,26 @@
+.form {
+  width: 360px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  position: relative;
+}
+  
+.exitButton {
+  display: block;
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+
+.btn-block {
+  margin-top: 10px;
+  text-align: right;
+  position: absolute;
+  right: 18px;
+}
